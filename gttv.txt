@@ -1,0 +1,295 @@
+台湾地区,#genre#
+寰宇新闻台,http://live/live/kwzq1rse/mxrsjhxp/index.m3u8
+镜电视新闻 HD,http://live/live/kwzq1rse/89n412sx/index.m3u8
+华视新闻 HD,http://live/live/kwzq1rse/fj3mtgtj/index.m3u8
+民视,http://live/live/t6u5b1q4/7c4f853f/index.m3u8
+台视 HD,http://live/live/kwzq1rse/c05pm3s2/index.m3u8
+中视 HD,http://live/live/kwzq1rse/0fjz7px1/index.m3u8
+华视 HD,http://live/live/kwzq1rse/hmrmw2mj/index.m3u8
+公视 HD,http://live/live/kwzq1rse/j44fm83f/index.m3u8
+民视台湾新闻,http://live/live/kwzq1rse/thkmtv99/index.m3u8
+三立新闻,http://live/live/t6u5b1q4/5890d7c4/index.m3u8
+TVBS-N HD,http://live/live/t6u5b1q4/1b82cf55/index.m3u8
+TVBS HD,http://live/live/a9a5de21/qb4zc9s7/index.m3u8
+东森新闻 HD,http://live/live/fchcah3u/94zf0c2v/index.m3u8
+中天新闻,http://live/live/a9a5de21/8j108vcc/index.m3u8
+壹电视新闻,http://live/live/t6u5b1q4/69a0087b/index.m3u8
+年代新闻,http://live/live/t6u5b1q4/67f088a8/index.m3u8
+非凡新闻,http://live/live/kwzq1rse/569f8eea/index.m3u8
+东森财经新闻,http://live/live/fchcah3u/1cj0fxmv/index.m3u8
+三立都会,http://live/live/t6u5b1q4/04bd1e96/index.m3u8
+三立台湾,http://live/live/t6u5b1q4/66e1dd5c/index.m3u8
+八大综合,http://live/live/a9a5de21/nh14pm05/index.m3u8
+八大戏剧,http://live/live/a9a5de21/1gx47f4w/index.m3u8
+东森综合,http://live/live/kwzq1rse/chn4krg1/index.m3u8
+东森戏剧,http://live/live/fchcah3u/g5n3j8kx/index.m3u8
+纬来综合,http://live/live/kwzq1rse/3qct536g/index.m3u8
+纬来戏剧,http://live/live/kwzq1rse/ncgscv3r/index.m3u8
+中天综合 HD,http://live/live/a9a5de21/975ffqpt/index.m3u8
+TVBS欢乐台,http://live/live/kwzq1rse/503d4280/index.m3u8
+东森电影,http://live/live/fchcah3u/q6t7f6hg/index.m3u8
+HBO HD,http://live/live/kwzq1rse/84wnpj8g/index.m3u8
+东森洋片,http://live/live/kwzq1rse/0kxhqv8q/index.m3u8
+CINEMAX,http://live/live/kwzq1rse/w6stt0q8/index.m3u8
+纬来体育,http://live/live/kwzq1rse/spvjqjn9/index.m3u8
+爱尔达体育1台,http://live/live/fadh3ct5/xx8jfqc9/index.m3u8
+爱尔达体育2台,http://live/live/fadh3ct5/bxjgvrj3/index.m3u8
+爱尔达体育3台,http://live/live/fchcah3u/47ac82d6/index.m3u8
+东森幼幼,http://live/live/fchcah3u/31t5z7bp/index.m3u8
+MOMO亲子台,http://live/live/kwzq1rse/877sd556/index.m3u8
+CNN,http://live/live/kwzq1rse/7w0tv28m/index.m3u8
+Discovery,http://live/live/kwzq1rse/fvptsnk3/index.m3u8
+动物星球频道,http://live/live/kwzq1rse/13t5w6zc/index.m3u8
+国家地理 HD,http://live/live/kwzq1rse/nvhgfr5c/index.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/manifest.m3u8
+大爱一台,http://live/live/kwzq1rse/tcs89msv/index.m3u8
+霹雳台湾台,http://live/live/kwzq1rse/d1ffefce/index.m3u8
+公视台语台,http://live/live/kwzq1rse/8x1bt2hg/index.m3u8
+好消息卫星电视台,http://live/live/kwzq1rse/x4qgwt3s/index.m3u8
+原住民族电视台,http://live/live/kwzq1rse/ddzd126a/index.m3u8
+客家电视,http://live/live/kwzq1rse/23618f6e/index.m3u8
+TLC旅游生活频道,http://live/live/kwzq1rse/059c6cgh/index.m3u8
+CN卡通,http://live/live/kwzq1rse/0jqsx5tg/index.m3u8
+Nickelodeon,http://live/live/kwzq1rse/tnv75740/index.m3u8
+八大第一台,http://live/live/kwzq1rse/d6e974e7/index.m3u8
+华艺综合,http://live/live/kwzq1rse/a121q1cc/index.m3u8
+东森超视,http://live/live/fadh3ct5/996eaed4/index.m3u8
+momo购物一台,http://live/live/kwzq1rse/63f816d7/index.m3u8
+momo购物二台,http://live/live/kwzq1rse/a155d0d0/index.m3u8
+东风卫视,http://live/live/kwzq1rse/6b13bb2f/index.m3u8
+年代MUCH,http://live/live/kwzq1rse/e1e0abbd/index.m3u8
+中天娱乐,http://live/live/kwzq1rse/pg9ccptv/index.m3u8
+高点综合,http://live/live/kwzq1rse/fmqkc4bh/index.m3u8
+JET综合,http://live/live/kwzq1rse/07t8z33z/index.m3u8
+东森购物台1,http://live/live/kwzq1rse/3d64bb74/index.m3u8
+东森购物台2,http://live/live/kwzq1rse/263b4010/index.m3u8
+东森购物台3,http://live/live/fchcah3u/abdd281a/index.m3u8
+Catchplay电影台,http://live/live/kwzq1rse/63t80c5p/index.m3u8
+纬来电影,http://live/live/kwzq1rse/q9p24xqk/index.m3u8
+龙祥时代,http://live/live/kwzq1rse/0xz20xk6/index.m3u8
+AXN,http://live/live/kwzq1rse/q1t3r233/index.m3u8
+好莱坞电影台,http://live/live/kwzq1rse/q0rskj6h/index.m3u8
+amc电影台,http://live/live/kwzq1rse/1vnt5wqn/index.m3u8
+纬来育乐,http://live/live/kwzq1rse/vrn5bsmg/index.m3u8
+ELEVEN SPORTS 1,http://live/live/kwzq1rse/svs9236c/index.m3u8
+ELEVEN SPORTS 2,http://live/live/kwzq1rse/d41d8cd9/index.m3u8
+MOMO综合 HD,http://live/live/kwzq1rse/6s69fxz2/index.m3u8
+纬来日本,http://live/live/kwzq1rse/5bd6dfb8/index.m3u8
+国兴卫视,http://live/live/kwzq1rse/6zb3p58j/index.m3u8
+ETtoday综合台,http://live/live/kwzq1rse/e8eddaf3/index.m3u8
+MTV综合电视台,http://live/live/kwzq1rse/a7939dbd/index.m3u8
+iNEWS最正新闻台,http://live/live/fchcah3u/zhjnc3xr/index.m3u8
+HGTV,http://live/live/kwzq1rse/f406b29a/index.m3u8
+爱尔达体育4台,http://live/live/kwzq1rse/w7tx0758/index.m3u8
+三立戏剧台,http://live/live/kwzq1rse/k4bszph7/index.m3u8
+博斯高球1 HD,http://live/live/kwzq1rse/13k597n4/index.m3u8
+博斯高球2 HD,http://live/live/kwzq1rse/p41p0chp/index.m3u8
+博斯运动I HD,http://live/live/kwzq1rse/163e3862/index.m3u8
+博斯运动II HD,http://live/live/kwzq1rse/rxxm18mx/index.m3u8
+EURO SPORT,http://live/live/kwzq1rse/jjf48w4x/index.m3u8
+HBO Hits,http://live/live/kwzq1rse/invnbjaa/index.m3u8
+HBO signature,http://live/live/kwzq1rse/8as1d3as/index.m3u8
+CI罪案侦缉,http://live/live/kwzq1rse/rw55z1xs/index.m3u8
+NHK WORLD,http://live/live/kwzq1rse/mn4r6rh7/index.m3u8
+ANIMAX,http://live/live/kwzq1rse/zmz9k2hc/index.m3u8
+靖天国际台,http://live/live/kwzq1rse/hxrr1s5b/index.m3u8
+靖天卡通台,http://live/live/kwzq1rse/188de90f/index.m3u8
+EYETV戏剧HD,http://live/live/kwzq1rse/rg68vjj0/index.m3u8
+EYETV旅游HD,http://live/live/kwzq1rse/sphg8nq9/index.m3u8
+华藏卫视,http://live/live/kwzq1rse/kgf7416a/index.m3u8
+龙华电影,http://live/live/kwzq1rse/6s69fnjz/index.m3u8
+博斯无限,http://live/live/t6u5b1q4/77e13exz/index.m3u8
+博斯无限2,http://live/live/kwzq1rse/zgncsdxz/index.m3u8
+三立综合,http://live/live/kwzq1rse/8sw4bfgq/index.m3u8
+美亚电影台,http://live/live/kwzq1rse/4vphhg1h/index.m3u8
+壹电视电影台,http://live/live/kwzq1rse/agdc1y5c/index.m3u8
+Z频道,http://live/live/kwzq1rse/bcv2rznr/index.m3u8
+龙华洋片,http://live/live/kwzq1rse/e22494cb/index.m3u8
+龙华戏剧,http://live/live/kwzq1rse/be4c45a1/index.m3u8
+龙华偶像,http://live/live/kwzq1rse/57c70012/index.m3u8
+华视教育体育文化台,http://live/live/kwzq1rse/185781a1/index.m3u8
+PTS xs,http://live/live/kwzq1rse/324wyz1f/index.m3u8
+大爱二台HD（台湾）,http://live/live/kwzq1rse/f1mb4n6x/index.m3u8
+寰宇财经,http://live/live/kwzq1rse/0q5fr8rh/index.m3u8
+好消息2,http://live/live/kwzq1rse/h8w5891c/index.m3u8
+靖洋卡通台 HD,http://live/live/a9a5de21/f97qhzsw/index.m3u8
+台视综合台,http://live/live/kwzq1rse/vj16g6fs/index.m3u8
+靖天电影,http://live/live/kwzq1rse/h25ntcr8/index.m3u8
+靖天育乐台,http://live/live/kwzq1rse/fz0wwtjb/index.m3u8
+靖天日本台,http://live/live/a9a5de21/n7s1fwk8/index.m3u8
+靖洋戏剧台,http://live/live/kwzq1rse/e22494cb/index.m3u8
+ELTA影剧 HD,http://live/live/fadh3ct5/vvhpg8t8/index.m3u8
+佛卫慈悲台,http://live/live/kwzq1rse/31cef715/index.m3u8
+博斯魅力,http://live/live/kwzq1rse/sq7kwzwq/index.m3u8
+博斯网球,http://live/live/kwzq1rse/xvtbpnqp/index.m3u8
+ELEVEN SPORTS PLUS,http://live/live/kwzq1rse/b1sdc121/index.m3u8
+中视新闻台,http://live/live/kwzq1rse/bkrbn0pf/index.m3u8
+台视新闻台,http://live/live/kwzq1rse/rmntpxs1/index.m3u8
+台湾戏剧台 HD,http://live/live/kwzq1rse/k75nw13p/index.m3u8
+SCI,http://live/live/kwzq1rse/0j9wgpsb/index.m3u8
+CNA,http://live/live/t6u5b1q4/00xjp004/index.m3u8
+CinemaWorld,http://live/live/kwzq1rse/wrn6wjz7/index.m3u8
+亚洲美食频道,http://live/live/kwzq1rse/bxrtqasc/index.m3u8
+BBC earth HD,http://live/live/kwzq1rse/cbpz1qrf/index.m3u8
+BBC Lifestyle HD,http://live/live/kwzq1rse/wq2z42th/index.m3u8
+History HD,http://live/live/kwzq1rse/4m124k0n/index.m3u8
+Warner Bros HD,http://live/live/t6u5b1q4/c8853895/index.m3u8
+民视台湾台,http://live/live/kwzq1rse/bh0x57p4/index.m3u8
+民视第一台,http://live/live/kwzq1rse/ggvhjzxt/index.m3u8
+TVBS精彩台,http://live/live/kwzq1rse/3r0zt5s3/index.m3u8
+美食星球,http://live/live/kwzq1rse/45c2r1kr/index.m3u8
+亚洲旅游台,http://live/live/kwzq1rse/jhmt4rc8/index.m3u8
+TaiwanPlus,http://live/live/8c33fa9b/nvmhcffx/index.m3u8
+Discovery Asia,http://live/live/kwzq1rse/wm8wzgxz/index.m3u8
+LIfetimeMovie,http://live/live/kwzq1rse/ed6089dd/index.m3u8
+新唐人亚太台,https://www.youtube.com/watch?v=WIhgU_mc05A
+
+香港地区,#genre#
+翡翠台,http://live/live/kwzq1rse/5tg7hf6c/index.m3u8
+无线新闻台,http://live/live/t6u5b1q4/2f290875/index.m3u8
+明珠台,http://live/live/t6u5b1q4/2d901758/index.m3u8
+TVB J2,http://live/live/t6u5b1q4/0087ab5b/index.m3u8
+凤凰资讯HD,http://live/live/t6u5b1q4/871a556a/index.m3u8
+凤凰卫视 HD,http://live/live/t6u5b1q4/b41asd11/index.m3u8
+凤凰香港 HD,http://live/live/t6u5b1q4/vfhd84ad/index.m3u8
+viu tv,http://live/live/kwzq1rse/zbjk0cj6/index.m3u8
+ViuTV6,http://live/live/t6u5b1q4/1adccc67/index.m3u8
+天映频道,http://live/live/t6u5b1q4/amlxy027/index.m3u8
+有线新闻,http://live/live/t6u5b1q4/b215381c/index.m3u8
+RHK31,http://live/live/t6u5b1q4/ee649933/index.m3u8
+RHK32,http://live/live/t6u5b1q4/506cb6da/index.m3u8
+奇妙电视,http://live/live/t6u5b1q4/4c55d1cc/index.m3u8
+长城精品,http://live/live/t6u5b1q4/f699c641/index.m3u8
+澳门莲花,http://live/live/kwzq1rse/cs7rpncg/index.m3u8
+澳亚卫视,http://live/live/fchcah3u/783b56a7/index.m3u8
+香港卫视,http://live/live/kwzq1rse/89n4xz21/index.m3u8
+HOY资讯台,http://live/live/t6u5b1q4/b215381c/index.m3u8
+now直播,http://live/live/kwzq1rse/w6stt0q8/index.m3u8
+now新闻,http://live/live/cjz1uzv2/211b4c40bf/index.m3u8
+Now爆谷,http://live/live/fadh3ct5/f3e7377daa/index.m3u8
+Now星影,http://live/live/fadh3ct5/6c8512d418/index.m3u8
+
+大陆地区,#genre#
+CCTV-1 HD,http://live/live/kwzq1rse/jgcz990f/index.m3u8
+CCTV-2,http://live/live/kwzq1rse/7br6tfc7/index.m3u8
+CCTV-3 HD,http://live/live/kwzq1rse/610m2pq2/index.m3u8
+CCTV-4 HD,http://live/live/kwzq1rse/z1z0qgmt/index.m3u8
+CCTV-5 HD,http://live/live/kwzq1rse/8p5jrfhk/index.m3u8
+CCTV-5+ HD,http://live/live/t6u5b1q4/53125da5/index.m3u8
+CCTV-6 HD,http://live/live/kwzq1rse/494r502h/index.m3u8
+CCTV-7,http://live/live/t6u5b1q4/trqqc7bx/index.m3u8
+CCTV-8 HD,http://live/live/kwzq1rse/jkzkt5sh/index.m3u8
+CCTV-9 HD,http://live/live/kwzq1rse/23nc5ktw/index.m3u8
+CCTV-10 HD,http://live/live/kwzq1rse/s9fb5tsw/index.m3u8
+CCTV-11,http://live/live/kwzq1rse/8pp5sbrj/index.m3u8
+CCTV-12,http://live/live/kwzq1rse/722m6jv4/index.m3u8
+CCTV-13,http://live/live/kwzq1rse/3zggm45n/index.m3u8
+CCTV-14,http://live/live/kwzq1rse/483f4944/index.m3u8
+CCTV-15,http://live/live/kwzq1rse/t0j79f8c/index.m3u8
+CCTV-16,http://live/live/kwzq1rse/vken2ac1/index.m3u8
+天津卫视,http://live/live/kwzq1rse/spr8mxjs/index.m3u8
+四川卫视 HD,http://live/live/kwzq1rse/w3zfb5rh/index.m3u8
+浙江卫视 HD,http://live/live/kwzq1rse/c0j26t0r/index.m3u8
+福建东南卫视,http://live/live/kwzq1rse/64rv5hgz/index.m3u8
+深圳卫视 HD,http://live/live/kwzq1rse/5ng3b4fx/index.m3u8
+北京卫视 HD,http://live/live/kwzq1rse/cmgw1gqb/index.m3u8
+重庆卫视,http://live/live/kwzq1rse/bcz5x1cr/index.m3u8
+上海东方卫视 HD,http://live/live/kwzq1rse/zvstjgb3/index.m3u8
+湖南卫视 HD,http://live/live/kwzq1rse/qtj1jx16/index.m3u8
+湖北卫视 HD,http://live/live/kwzq1rse/zg8m3znc/index.m3u8
+广西卫视,http://live/live/kwzq1rse/rgbxs8j7/index.m3u8
+山东卫视 HD,http://live/live/kwzq1rse/htvjvvhf/index.m3u8
+江苏卫视 HD,http://live/live/kwzq1rse/f95ngkwq/index.m3u8
+海南卫视,http://live/live/kwzq1rse/3qb2j6nc/index.m3u8
+大湾区卫视,http://live/live/kwzq1rse/sg4fx9qp/index.m3u8
+广东珠江,http://live/live/t6u5b1q4/cb4ebf16/index.m3u8
+CHC高清电影 HD,http://live/live/t6u5b1q4/d65c043f/index.m3u8
+广东卫视,http://live/live/kwzq1rse/c8wfnrgw/index.m3u8
+广东体育,http://live/live/kwzq1rse/zg8dc22x/index.m3u8
+山西卫视,http://live/live/kwzq1rse/k982x8c8/index.m3u8
+海南文旅,http://live/live/kwzq1rse/jmgfmzqq/index.m3u8
+cctv娱乐,http://live/live/kwzq1rse/bxt1zcf3/index.m3u8
+
+国际地区,#genre#
+AXN(MY Sub),http://live/live/dskmxzaa/611a7ceb/index.m3u8
+France 24(English),http://live/live/kwzq1rse/4f17z4qv/index.m3u8
+NHK world,http://live/live/kwzq1rse/mn4r6rh7/index.m3u8
+Food Network,http://live/live/t6u5b1q4/2fdxafax/index.m3u8
+TV5,http://live/live/kwzq1rse/9nk93b9c/index.m3u8
+SKY NEWS HD,http://live/live/kwzq1rse/8vfjmcsj/index.m3u8
+Bloomberg,http://live/live/kwzq1rse/v6g923kv/index.m3u8
+CNN HD,http://live/live/kwzq1rse/7w0tv28m/index.m3u8
+CNBC,http://live/live/kwzq1rse/wnfjf1pn/index.m3u8
+DW-TV,https://www.youtube.com/watch?v=pqabxBKzZ6M
+BBC earth HD,http://live/live/kwzq1rse/cbpz1qrf/index.m3u8
+BBC Lifestyle HD,http://live/live/kwzq1rse/wq2z42th/index.m3u8
+BBC,http://live/live/kwzq1rse/93n722x2/index.m3u8
+sundance channel,http://live/live/kwzq1rse/e8eddaf3/index.m3u8
+CinemaWorld,http://live/live/kwzq1rse/wrn6wjz7/index.m3u8
+LUXE TV,http://live/live/kwzq1rse/a7939dbd/index.m3u8
+国家地理 HD,http://live/live/kwzq1rse/nvhgfr5c/index.m3u8
+CINEMAX,http://live/live/kwzq1rse/w6stt0q8/index.m3u8
+HBO HD,http://live/live/kwzq1rse/84wnpj8g/index.m3u8
+HBO Hits,http://live/live/kwzq1rse/invnbjaa/index.m3u8
+HBO signature,http://live/live/kwzq1rse/8as1d3as/index.m3u8
+AXN,http://live/live/kwzq1rse/q1t3r233/index.m3u8
+ANIMAX,http://live/live/kwzq1rse/zmz9k2hc/index.m3u8
+ALJAZEERA,https://www.youtube.com/watch?v=-upyPouRrB8
+
+日本地区,#genre#
+NHK,http://live/live/kwzq1rse/9zvn2r22/index.m3u8
+TBS NEWS HD,http://live/live/kwzq1rse/2v2f7p8m/index.m3u8
+NHK WORLD JAPAN,http://live/live/kwzq1rse/mn4r6rh7/index.m3u8
+
+韩国地区,#genre#
+KBS1,http://live/live/t6u5b1q4/787b1cf0/index.m3u8
+KBS2,http://live/live/t6u5b1q4/b7c242c8/index.m3u8
+MBC,http://live/live/t6u5b1q4/8c654b96/index.m3u8
+SBS,http://live/live/t6u5b1q4/96e03edf/index.m3u8
+JTBC,http://live/live/t6u5b1q4/21fa5fa7/index.m3u8
+TVN,http://live/live/t6u5b1q4/de30224e/index.m3u8
+Arirang HD,http://live/live/kwzq1rse/h6h1s2j5/index.m3u8
+YTN,http://live/live/kwzq1rse/m49f6d1a/index.m3u8
+韩国KBS World,http://live/live/kwzq1rse/55d51e1e/index.m3u8
+KBS WORLD 24,https://www.youtube.com/watch?v=EIfaYst9ZsY
+
+体育频道,#genre#
+supersport1,http://live/live/t6u5b1q4/bsport48/index.m3u8
+supersport2,http://live/live/t6u5b1q4/2cad0172/index.m3u8
+supersport3,http://live/live/t6u5b1q4/bsport49/index.m3u8
+supersport4,http://live/live/t6u5b1q4/bsport59/index.m3u8
+Sky Sports PremierLeague,http://live/live/e95cebf9/2ogiZev1/index.m3u8
+Sky Sports Action,http://live/live/e95cebf9/c037b208/index.m3u8
+NBA-TV,http://live/live/t6u5b1q4/519b9812/index.m3u8
+FOX SPORTS 1 HD,http://live/live/e95cebf9/1a74fff3/index.m3u8
+FOX SPORTS 2 HD,http://live/live/e95cebf9/55de631b/index.m3u8
+EURO SPORTS,http://live/live/kwzq1rse/jjf48w4x/index.m3u8
+Bein Sport 1-8,http://live/live/e95cebf9/8027ea12/index.m3u8 (1-8类似)
+GOLF,http://live/live/e95cebf9/a08de6dc/index.m3u8
+
+新闻频道,#genre#
+凤凰资讯HD,http://live/live/t6u5b1q4/871a556a/index.m3u8
+TVB新闻,http://live/live/kwzq1rse/g9wq1prh/index.m3u8
+SKY NEWS HD,http://live/live/kwzq1rse/8vfjmcsj/index.m3u8
+CNBC,http://live/live/kwzq1rse/wnfjf1pn/index.m3u8
+BBC World News,http://live/live/t6u5b1q4/03int076/index.m3u8
+Bloomberg,https://www.youtube.com/watch?v=dp8PhLsUcFE
+CNN HD,http://live/live/e95cebf9/3d33f845/index.m3u8
+CNA HD,http://live/live/t6u5b1q4/00xjp004/index.m3u8
+France 24(English),https://www.youtube.com/watch?v=jKWsY1tt8qw
+DW-TV,https://www.youtube.com/watch?v=4nSZPqJfC_I
+
+电影频道,#genre#
+HBO HD,http://live/live/kwzq1rse/84wnpj8g/index.m3u8
+HBO Hits,http://live/live/kwzq1rse/invnbjaa/index.m3u8
+HBO Signature HD,http://live/live/kwzq1rse/8as1d3as/index.m3u8
+AXN,http://live/live/kwzq1rse/q1t3r233/index.m3u8
+CINEMAX,http://live/live/kwzq1rse/w6stt0q8/index.m3u8
+龙华洋片,http://live/live/kwzq1rse/e22494cb/index.m3u8
+好莱坞电影台,http://live/live/kwzq1rse/q0rskj6h/index.m3u8
+星卫电影台 HD,http://live/live/kwzq1rse/6s69fnjz/index.m3u8
+美亚电影台 HD,http://live/live/kwzq1rse/4vphhg1h/index.m3u8
+CCTV-6 HD,http://live/live/kwzq1rse/494r502h/index.m3u8
+东森电影,http://live/live/fchcah3u/q6t7f6hg/index.m3u8
+Catchplay电影台,http://live/live/kwzq1rse/63t80c5p/index.m3u8
+CinemaWorld,http://live/live/kwzq1rse/wrn6wjz7/index.m3u8
